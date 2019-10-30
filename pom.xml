@@ -30,6 +30,6 @@
       <url>http://ec2-13-127-5-69.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/bcard-app-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    </distributionManagement>
-  </project>
+   </distributionManagement>
+ </project>
 

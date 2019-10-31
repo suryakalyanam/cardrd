@@ -20,7 +20,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>bcard-app-releases</id>
       <name>bcard-app-releases</name>
-      <urlhttp://ec2-13-127-5-69.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/bcard-app-releases/></url>
+      <url>http://ec2-13-127-5-69.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/bcard-app-releases/></url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
